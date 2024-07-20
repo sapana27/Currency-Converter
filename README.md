@@ -24,7 +24,7 @@ Its user-friendly interface ensures that users can easily select their desired c
 
 1. **Clone the Repository:**
    
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/sapana27/currency-converter.git
 2. **Navigate to the Project Directory:**
    cd currency-converter
 3. **Open the Project:**
@@ -40,7 +40,7 @@ Contributions are welcome! If you have any ideas for improvements or find any bu
 
 ## Acknowledgements
 
-![Currency API](https://github.com/fawazahmed0/currency-api) for providing exchange rate data.
+[Currency API](https://github.com/fawazahmed0/currency-api) for providing exchange rate data.
 
 ## Contact
 
