@@ -12,7 +12,7 @@ Its user-friendly interface ensures that users can easily select their desired c
 
 ## Screenshot
 
-![Currency Converter Screenshot](/Currency-Converter/screenshot.png)
+![Currency Converter Screenshot](/screenshot.png)
 
 ## Usage
 
